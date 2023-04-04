@@ -90,5 +90,4 @@ function checkWin(currentClass) {
       return cellElements[index].classList.contains(currentClass);
     });
   });
-  
 }
